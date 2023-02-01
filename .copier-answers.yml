@@ -1,0 +1,8 @@
+---
+# Changes here will be overwritten by Copier
+_commit: 04b63b2
+_src_path: eds-data-science-project-template.git
+code_root: titanic_dummy_model
+project_description: model for evaluation of mlops tools
+project_name: Titanic Dummy Model
+
